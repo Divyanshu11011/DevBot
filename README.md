@@ -39,8 +39,9 @@ https://github.com/Divyanshu11011/DevBot/assets/93030810/c3b3a521-bf02-41ff-8a5e
 
 ## Mobile Responsive 📱
 
-![devbot](https://github.com/Divyanshu11011/DevBot/assets/93030810/e5ec79e3-2294-4dde-a92c-42084f604cc6)
 ![devbo](https://github.com/Divyanshu11011/DevBot/assets/93030810/16ee5c49-667f-4d3c-b0dc-82f93d674c9b)
+
+![devbot](https://github.com/Divyanshu11011/DevBot/assets/93030810/e5ec79e3-2294-4dde-a92c-42084f604cc6)
 
 
 
